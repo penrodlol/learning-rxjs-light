@@ -4,10 +4,10 @@
 RxJS Official Documentation: [Here](https://rxjs-dev.firebaseapp.com/)
 <br>
 
-ReactiveX documentation: [Here](http://reactivex.io/rxjs/manual/overview.html#operators)
+ReactiveX Documentation: [Here](http://reactivex.io/rxjs/manual/overview.html#operators)
 <br>
 
-LeanRxJs documentation: [Here](https://www.learnrxjs.io/)
+LeanRxJs Documentation: [Here](https://www.learnrxjs.io/)
 <br>
 
 ![](https://placehold.it/15/9500ff/000000?text=+) Programming snippets for each section are located under their reprective directories ![](https://placehold.it/15/9500ff/000000?text=+)
