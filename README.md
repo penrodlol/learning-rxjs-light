@@ -4,10 +4,13 @@
 Official documentation: [Here](http://reactivex.io/rxjs/manual/overview.html#operators)
 LeanRxJs documentation: [Here](https://www.learnrxjs.io/)
 
-<br>
-<small style="background-color: #f3f3f3; border: 1px solid #9500ff; padding:10px; font-weight: bold">* Programming snippets for each section are located
-under their reprective directories *</small>
+<style>
+#snippets {background-color: #f3f3f3; border: 1px solid #9500ff; padding:10px; font-weight: bold}
+</style>
 
+<br>
+<small id="snippets">* Programming snippets for each section are located
+under their reprective directories *</small>
 <hr>
 
 ## Introduction
