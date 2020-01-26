@@ -1,8 +1,12 @@
 # Learning RxJS
 ![RxJS Logo](assets/rxjs-logo.png)
 
-Official documentation: [Here](http://reactivex.io/rxjs/manual/overview.html#operators)
+RxJS Official Documentation: [Here](https://rxjs-dev.firebaseapp.com/)
 <br>
+
+ReactiveX documentation: [Here](http://reactivex.io/rxjs/manual/overview.html#operators)
+<br>
+
 LeanRxJs documentation: [Here](https://www.learnrxjs.io/)
 <br>
 
