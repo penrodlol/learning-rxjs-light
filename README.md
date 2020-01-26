@@ -4,7 +4,7 @@
 RxJS Official Documentation: [Here](https://rxjs-dev.firebaseapp.com/)
 <br>
 
-ReactiveX Documentation: [Here](http://reactivex.io/rxjs/manual/overview.html#operators)
+ReactiveX Documentation: [Here](http://reactivex.io/rxjs/manual/overview.html)
 <br>
 
 LeanRxJs Documentation: [Here](https://www.learnrxjs.io/)
