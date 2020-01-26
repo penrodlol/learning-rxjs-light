@@ -4,13 +4,10 @@
 Official documentation: [Here](http://reactivex.io/rxjs/manual/overview.html#operators)
 LeanRxJs documentation: [Here](https://www.learnrxjs.io/)
 
-<style>
-#snippets {background-color: #f3f3f3; border: 1px solid #9500ff; padding:10px; font-weight: bold}
-</style>
-
 <br>
-<small id="snippets">* Programming snippets for each section are located
-under their reprective directories *</small>
+
+![](https://placehold.it/15/9500ff/000000?text=+) Programming snippets for each section are located under their reprective directories ![](https://placehold.it/15/9500ff/000000?text=+)
+
 <hr>
 
 ## Introduction
@@ -75,7 +72,7 @@ Values
 ```
 
 <br>
-<div style="background-color: #f3f3f3; border: 1px solid #9500ff; padding: 10px">
+<div>
 <span>Introduction Lookup Table</span><br>
 <small>[1] <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.6">https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/1.6</a></small><br>
 <small>[2] <a href="https://en.wikipedia.org/wiki/Observer_pattern">https://en.wikipedia.org/wiki/Observer_pattern</a></small><br>
